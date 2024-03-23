@@ -49,7 +49,7 @@ if (fs.existsSync('./auth_info_baileys')) {
       let Smd =GiftedWASocket({ 
         printQRInTerminal: false,
         logger: pino({ level: "silent" }), 
-        browser: Browsers.gifted("Desktop"),
+        browser: Browsers.safari("Desktop"),
         auth: state 
         });
 
