@@ -81,5 +81,5 @@ RENDER PROCESS:
 
 
 
-## MADE WITH ❤️ BY:
+## MADE WITH ❤️ BY GIFTED TECH:
 [![GiftedTech](https://telegra.ph/file/54efddccf41281ad7ec51.jpg)](https://github.com/Giftedmaurice)
