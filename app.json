@@ -13,7 +13,7 @@
         "required": true 
       },
       "MESSAGE": {
-        "description": "set session id conformation message",
+        "description": "Your Session ID Conformation Message",
         "value": "",
         "required": false 
       }
