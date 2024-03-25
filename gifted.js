@@ -143,7 +143,7 @@ SESSION-ID ==> ${Scan_Id}
     await fs.emptyDirSync(__dirname+'/auth_info_baileys'); 
 
 
-    //// MADE WITH GIFTED TECH
+    //// MADE WITH💜 BY GIFTED TECH
 
 });
 
