@@ -9,7 +9,7 @@
   <a aria-label="Gifted_Md is free to use" href="https://youtube.com/@giftedtechnexus" target="_blank">
     <img alt="GiftedTech" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
-    <p align="center"><img src="https://profile-counter.glitch.me/{smd-web-qr}/count.svg" alt="GiftedTech :: Visitor's Count" /></p>
+    <p align="center"><img src="https://profile-counter.glitch.me/{Giftedmaurice}/count.svg" alt="GiftedTech :: Visitor's Count" /></p>
 
      
   </body>
@@ -82,4 +82,4 @@ RENDER PROCESS:
 
 
 ## MADE WITH ❤️ BY GIFTED TECH:
-[![GiftedTech](https://telegra.ph/file/54efddccf41281ad7ec51.jpg)](https://github.com/Giftedmaurice)
+ <a href="https://github.com/Giftedmaurice"><img src="https://github.com/Giftedmaurice.png" width="250" height="250" alt="Giftedmaurice"/></a>
