@@ -25,10 +25,10 @@ ____________________________________
 ╔═════◇
 ║  『••• 𝗩𝗶𝘀𝗶𝘁 𝗙𝗼𝗿 𝗛𝗲𝗹𝗽 •••』
 ║❒ 𝐘𝐨𝐮𝐭𝐮𝐛𝐞: _youtube.com/@giftedtechnexus_
-║❒ 𝐎𝐰𝐧𝐞𝐫: _https://wa.me/message/NHCZC5DSOEUXB1_
+║❒ 𝐎𝐰𝐧𝐞𝐫: _https://wa.me/923107058820_
 ║❒ 𝐑𝐞𝐩𝐨: _https://github.com/Giftedmaurice/gifted-mdV2_
-║❒ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: _https://chat.whatsapp.com/FPzB9wRD9RN4Zk2y2rnH3S_
-║❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _https://whatsapp.com/channel/0029VaJmfmTDJ6H7CmuBss0o_
+║❒ 𝐖𝐚𝐆𝐫𝐨𝐮𝐩: _wa.me/923107058820_
+║❒ 𝐖𝐚𝐂𝐡𝐚𝐧𝐧𝐞𝐥: _wa.me/923107058820_
 ║❒ 𝐏𝐥𝐮𝐠𝐢𝐧𝐬: _https://github.com/Giftedmaurice/gifted-bot-md-plugins_
 ║    💜💜💜
 ╚════════════════════╝ 
